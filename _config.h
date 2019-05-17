@@ -7,8 +7,8 @@
 #define SERIAL_SPEED        115200
 
 ///////////// Wi-Fi Credentials
-#define SSID                "Tenda Digital"
-#define PASSWORD            "arduinos"
+#define SSID                "QUARK"
+#define PASSWORD            "quarkinho3k3"
 
 ///////////// PinOuts
 #define BAT_SENSOR          16
